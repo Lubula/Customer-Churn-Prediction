@@ -1,7 +1,7 @@
 # Predictive Analysis: Telcom"s Company Customer Churn
 
-## Introduction
-Aim to predict customer churn using machine learning techniques. Customer churn refers to when customers stop doing business with a company. Predicting churn can help businesses understand customer behavior and develop strategies to retain customers.
+## Overview
+This repository contains Jupyter notebooks and related resources for analyzing customer churn in the telecommunications industry using the Telco Customer Churn dataset obtained from Kaggle. The project encompasses data exploration, preprocessing, model building, evaluation, and comparison of various machine learning models. Additionally, it includes hyperparameter tuning and feature engineering to optimize model performance
 
 ## Data
 We use the Telco Customer Churn dataset obtained from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
