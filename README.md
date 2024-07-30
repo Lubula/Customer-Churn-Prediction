@@ -1,4 +1,4 @@
-# Predictive Analysis: Telcom"s Company Customer Churn
+# Predictive Analysis: Telecommunications' Company Customer Churn
 
 ## Overview
 This repository contains Jupyter notebooks and related resources for analyzing customer churn in the telecommunications industry using the Telco Customer Churn dataset obtained from Kaggle. The project encompasses data exploration, preprocessing, model building, evaluation, and comparison of various machine learning models. Additionally, it includes hyperparameter tuning and feature engineering to optimize model performance
